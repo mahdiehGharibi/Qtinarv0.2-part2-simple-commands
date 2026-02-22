@@ -4,7 +4,7 @@ QtinarOS v0.2 is a small educational operating system written in C and Assembly 
 
 This project is part of a learning journey into OS development, focusing on understanding low‑level concepts such as memory layout, interrupts, drivers, and kernel structure.
 
-
+![OutPut](https://github.com/mahdiehGharibi/Qtinarv0.2-part2-simple-commands/blob/be4b0ccfc6558cc7413676b1ab505e7f5ffe61aa/OutPut.png)
 
 ## ✨ Features
 
