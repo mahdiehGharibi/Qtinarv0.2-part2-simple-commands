@@ -1,6 +1,3 @@
-#!/bin/bash
-
-cat << 'EOF' > README.md
 # QtinarOS v0.2 — Simple Commands, Keyboard Input, and Basic Shell
 
 QtinarOS v0.2 is a small educational operating system written in C and Assembly for the x86 architecture. It boots with GRUB, sets up protected mode, configures interrupts, handles keyboard input, and provides a minimal command‑line interface with simple built‑in commands.
