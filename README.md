@@ -52,9 +52,6 @@ src/
 - GRUB tools (`grub-mkrescue`)
 - QEMU (or any x86 emulator)
 
-### Build Commands
-
-(Your full build commands go here — unchanged)
 
 
 
